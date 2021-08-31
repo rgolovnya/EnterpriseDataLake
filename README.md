@@ -1,4 +1,4 @@
-# Entriprise Data Lake
+# Enterprise Data Lake Architecture for Medical Data Processing Company
 
 ## Project Overview
 Medical Data Processing Company, based out of San Francisco, specializes in processing various types of EMR (Electronic Medical Records) and provides real-time insights to various medical facilities. These data insights are used by their customers to stay compliant with laws, track patient health metrics, admit discharge records, and bed availability. This service is used by about 8000 individual medical care facilities, including Urgent Care (UC), hospitals, nursing homes, emergency rooms, and critical care units.
